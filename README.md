@@ -1,4 +1,11 @@
-### Hi there 👋
+### Bissbotch
+
+# About Me
+My name is bissbotch and I'm a 21 year old cyber security student at university. Most code will be work from university but will include some personal projects as well.
+
+# Socials
+Twitter: https://www.twitter.com/bissbotchh
+Discord: bissbotch#6529
 
 <!--
 **bissbotch/bissbotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
