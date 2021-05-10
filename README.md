@@ -1,9 +1,9 @@
-### Bissbotch
+# Bissbotch
 
-# About Me
+## About Me
 My name is bissbotch and I'm a 21 year old cyber security student at university. Most code will be work from university but will include some personal projects as well.
 
-# Socials
+## Socials
 Twitter: https://www.twitter.com/bissbotchh <br>
 Discord: bissbotch#6529
 
