@@ -7,7 +7,7 @@ My name is bissbotch and I'm a 21 year old cyber security student at university 
 If you see something I am working on that you think is potentially interesting and you'd like to help out, message me on twitter or Discord.
 
 ## Projects
-Currently the main projects I will be working on now will be pen testing tools, usually basic and none likely to be used by anyone but t=just to help me build my skills in various languages.
+Currently the main projects I will be working on now will be pen testing tools, usually basic and none likely to be used by anyone but just to help me build my skills in various languages.
 
 ## Socials
 Twitter: https://www.twitter.com/bissbotchh <br>
